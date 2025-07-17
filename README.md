@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi There! 👋  
     <br/>
-    I'm Muhammad Shahzaib Ali!
+    I'm Shahzaib Ali!
 </h1>
 <h2 align="center">Full Stack Developer From Pakistan</h2>
 <div align="center"> 
@@ -23,8 +23,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,react,javascript,aws,bootstrap,tailwind" />
-   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,vscode,git,github,vite,redux,linux,postman,docker,graphql" />
+   <img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,react,javascript,aws,bootstrap,tailwind,mysql,postgres,mongodb" />
+   <img src="https://skillicons.dev/icons?i=vscode,git,github,vite,redux,linux,postman,docker,graphql" />
 </div>
 
 <br/>
